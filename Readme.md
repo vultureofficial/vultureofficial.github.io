@@ -1,4 +1,4 @@
-[Home](https://vultureofficial.github.io/) / [Screenshots](Screenshots.md) / [Downloads](https://vultureofficial.github.io/) / [About](https://vultureofficial.github.io/) 
+[Home](https://vultureofficial.github.io/) / [Screenshots](Screenshots.md) / [Downloads](Downloads.md) / [About](About.md) 
 
 # HackUntu Operating system - Home
 > version 0.1
