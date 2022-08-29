@@ -16,4 +16,5 @@
 >> ![screenshot01](./shot01/screen03.png)
 
 > ## HackUntu running firefox in full screen mode
+>> Viewing the homepage of this website
 >> ![screenshot01](./shot01/screen05.png)
