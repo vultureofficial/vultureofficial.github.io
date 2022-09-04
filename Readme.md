@@ -15,11 +15,15 @@
 ## Roadmap
 - [x] Network support
 - [x] System keybindigs
-- [x] Contact the media
 - [x] Ratpoison window manager
 - [x] gcc, g++, cmake, make (out of the box)
 - [x] cmatrix 
 - [x] vim  
+- [x] binutils
+- [x] ncurses
+- [ ] ng-crack 
+- [x] SDL2
+
 
 ## Problems 
 - >> apt and apt-get cannot install **ALL** packages. Common linux distro packages can be installed via **apt** or **apt-get**. We recommend building other packages from source.
